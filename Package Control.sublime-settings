@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"IMESupport",
+		"JSHint",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"TypeScript"
+	]
+}
