@@ -1,3 +1,18 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"IMESupport",
+		"Package Control",
+		"SideBarEnhancements",
+		"TypeScript"
+	]
 }

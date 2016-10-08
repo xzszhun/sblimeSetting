@@ -1,0 +1,6 @@
+{
+  "jsdocs_extra_tags": ["@sansengg","@date {{date}}"],
+  "jsdocs_quick_open_inline":true, // 通过按空格键即可开启 /** 注释 */
+  "jsdocs_newline_after_block":false, // /**注释后与函数主题留一个空行
+  "jsdocs_autoadd_method_tag": true // 是否在注释中添加方法名
+}
