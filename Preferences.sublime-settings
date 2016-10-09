@@ -1,7 +1,29 @@
 {
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"/F/SVN/SuperCode2.0_agriculture/debug.log"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	// "theme": "Soda Dark.sublime-theme"
+	"theme": "Soda Dark 3.sublime-theme"
 }

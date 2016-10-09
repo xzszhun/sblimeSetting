@@ -10,8 +10,11 @@
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"GitGutter",
 		"Package Control",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Soda",
 		"TypeScript"
 	]
 }
