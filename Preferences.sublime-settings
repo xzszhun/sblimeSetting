@@ -20,6 +20,7 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"GitGutter",
 		"Vintage"
 	],
 	"soda_classic_tabs": true,

@@ -1,0 +1,6 @@
+{
+	"browsers": ["last 2 Chrome versions","Firefox >= 20"],
+	// "cascade": true,
+	// "remove": true,
+	"prefixOnSave": true
+}
