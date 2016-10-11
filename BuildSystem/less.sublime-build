@@ -1,0 +1,4 @@
+{
+  "shell_cmd": "lessc $file > $file_base_name.css",
+  "selector": "source.less"
+}

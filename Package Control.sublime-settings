@@ -5,13 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"AutoFileName",
 		"Babel",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"Git",
-		"GitGutter",
+		"HTML5",
 		"IMESupport",
 		"JsFormat",
 		"Package Control",
