@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"ChineseLocalizations"
 	],
 	"installed_packages":
 	[
@@ -11,6 +12,8 @@
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
+		"ESLint",
+		"FileDiffs",
 		"Git",
 		"HTML5",
 		"IMESupport",
@@ -20,6 +23,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"Theme - Soda",
-		"TypeScript"
+		"TypeScript",
+		"Vue Syntax Highlight"
 	]
 }
