@@ -14,7 +14,9 @@
 		"*.tga",
 		"*.ttf",
 		"*.zip",
-		"/F/SVN/SuperCode2.0_agriculture/debug.log"
+		"/F/SVN/SuperCode2.0_agriculture/debug.log",
+		"/F/SVN/SuperCode_FE_Develop/node_modules/**",
+		"node_modules/**"
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"expand_tabs_on_save": true,
