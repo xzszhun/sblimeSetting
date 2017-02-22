@@ -7,5 +7,9 @@
 			"type":"production", 
 			"browser":""
 		} 
-	}
+	},
+    {
+      "keys": ["ctrl+alt+h"],
+      "command": "format_eslint"
+    }
 ]
